@@ -1,0 +1,54 @@
+*{
+
+	font-family: monospace;, Verdana, sans-serif;
+	color: #000000;
+	text-align: center;
+}
+
+body {
+	background-color: #FFFAF0;
+	width: 960px;
+	margin:  0 auto;
+	border:  groove;
+}
+
+h1{
+	font-size:  310%;
+}
+
+nav {
+	background-color:  #FFFAF0;
+	font-size: 110%;
+	padding:  10px;
+	margin:  2px;
+}
+
+li {
+	display:  inline;
+	padding: 8px;
+}
+
+section {
+	overflow:  auto;
+	height:  100%;
+}
+
+main {
+	background-color: #FFFAF0;
+	padding:  15px;
+	margin:  10px;
+}
+
+article {
+	background-color: #FFFAF0;
+	padding:  5px;
+	margin:  15px;
+}
+
+.mart{
+	text-align: left;
+}
+
+p{
+	font-size: 105%;
+}
